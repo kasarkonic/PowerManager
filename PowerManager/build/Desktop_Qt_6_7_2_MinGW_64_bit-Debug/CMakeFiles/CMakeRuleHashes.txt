@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ddc87c26b19478c0d2d7baada260b3ea CMakeFiles/PowerManager_autogen
