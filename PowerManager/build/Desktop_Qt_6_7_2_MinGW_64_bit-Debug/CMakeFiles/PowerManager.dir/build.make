@@ -113,11 +113,43 @@ CMakeFiles/PowerManager.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PowerManager.dir/mainwindow.cpp.s"
 	C:\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maris.dirveiks\git\PowerManager\PowerManager\mainwindow.cpp -o CMakeFiles\PowerManager.dir\mainwindow.cpp.s
 
+CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj: CMakeFiles/PowerManager.dir/flags.make
+CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj: CMakeFiles/PowerManager.dir/includes_CXX.rsp
+CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj: C:/Users/maris.dirveiks/git/PowerManager/PowerManager/settingsdialog.cpp
+CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj: CMakeFiles/PowerManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maris.dirveiks\git\PowerManager\PowerManager\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj"
+	C:\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj -MF CMakeFiles\PowerManager.dir\settingsdialog.cpp.obj.d -o CMakeFiles\PowerManager.dir\settingsdialog.cpp.obj -c C:\Users\maris.dirveiks\git\PowerManager\PowerManager\settingsdialog.cpp
+
+CMakeFiles/PowerManager.dir/settingsdialog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PowerManager.dir/settingsdialog.cpp.i"
+	C:\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maris.dirveiks\git\PowerManager\PowerManager\settingsdialog.cpp > CMakeFiles\PowerManager.dir\settingsdialog.cpp.i
+
+CMakeFiles/PowerManager.dir/settingsdialog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PowerManager.dir/settingsdialog.cpp.s"
+	C:\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maris.dirveiks\git\PowerManager\PowerManager\settingsdialog.cpp -o CMakeFiles\PowerManager.dir\settingsdialog.cpp.s
+
+CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: CMakeFiles/PowerManager.dir/flags.make
+CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: CMakeFiles/PowerManager.dir/includes_CXX.rsp
+CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: C:/Users/maris.dirveiks/git/PowerManager/PowerManager/serialsettingsdialog.cpp
+CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: CMakeFiles/PowerManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\maris.dirveiks\git\PowerManager\PowerManager\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj"
+	C:\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj -MF CMakeFiles\PowerManager.dir\serialsettingsdialog.cpp.obj.d -o CMakeFiles\PowerManager.dir\serialsettingsdialog.cpp.obj -c C:\Users\maris.dirveiks\git\PowerManager\PowerManager\serialsettingsdialog.cpp
+
+CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.i"
+	C:\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\maris.dirveiks\git\PowerManager\PowerManager\serialsettingsdialog.cpp > CMakeFiles\PowerManager.dir\serialsettingsdialog.cpp.i
+
+CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.s"
+	C:\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\maris.dirveiks\git\PowerManager\PowerManager\serialsettingsdialog.cpp -o CMakeFiles\PowerManager.dir\serialsettingsdialog.cpp.s
+
 # Object files for target PowerManager
 PowerManager_OBJECTS = \
 "CMakeFiles/PowerManager.dir/PowerManager_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/PowerManager.dir/main.cpp.obj" \
-"CMakeFiles/PowerManager.dir/mainwindow.cpp.obj"
+"CMakeFiles/PowerManager.dir/mainwindow.cpp.obj" \
+"CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj" \
+"CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj"
 
 # External object files for target PowerManager
 PowerManager_EXTERNAL_OBJECTS =
@@ -125,6 +157,8 @@ PowerManager_EXTERNAL_OBJECTS =
 PowerManager.exe: CMakeFiles/PowerManager.dir/PowerManager_autogen/mocs_compilation.cpp.obj
 PowerManager.exe: CMakeFiles/PowerManager.dir/main.cpp.obj
 PowerManager.exe: CMakeFiles/PowerManager.dir/mainwindow.cpp.obj
+PowerManager.exe: CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj
+PowerManager.exe: CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj
 PowerManager.exe: CMakeFiles/PowerManager.dir/build.make
 PowerManager.exe: C:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a
 PowerManager.exe: C:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a
@@ -133,7 +167,7 @@ PowerManager.exe: C:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a
 PowerManager.exe: CMakeFiles/PowerManager.dir/linkLibs.rsp
 PowerManager.exe: CMakeFiles/PowerManager.dir/objects1
 PowerManager.exe: CMakeFiles/PowerManager.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\maris.dirveiks\git\PowerManager\PowerManager\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable PowerManager.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\maris.dirveiks\git\PowerManager\PowerManager\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable PowerManager.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PowerManager.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

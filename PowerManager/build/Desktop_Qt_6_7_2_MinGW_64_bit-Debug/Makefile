@@ -258,6 +258,54 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+serialsettingsdialog.obj: serialsettingsdialog.cpp.obj
+.PHONY : serialsettingsdialog.obj
+
+# target to build an object file
+serialsettingsdialog.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj
+.PHONY : serialsettingsdialog.cpp.obj
+
+serialsettingsdialog.i: serialsettingsdialog.cpp.i
+.PHONY : serialsettingsdialog.i
+
+# target to preprocess a source file
+serialsettingsdialog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.i
+.PHONY : serialsettingsdialog.cpp.i
+
+serialsettingsdialog.s: serialsettingsdialog.cpp.s
+.PHONY : serialsettingsdialog.s
+
+# target to generate assembly for a file
+serialsettingsdialog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.s
+.PHONY : serialsettingsdialog.cpp.s
+
+settingsdialog.obj: settingsdialog.cpp.obj
+.PHONY : settingsdialog.obj
+
+# target to build an object file
+settingsdialog.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj
+.PHONY : settingsdialog.cpp.obj
+
+settingsdialog.i: settingsdialog.cpp.i
+.PHONY : settingsdialog.i
+
+# target to preprocess a source file
+settingsdialog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/settingsdialog.cpp.i
+.PHONY : settingsdialog.cpp.i
+
+settingsdialog.s: settingsdialog.cpp.s
+.PHONY : settingsdialog.s
+
+# target to generate assembly for a file
+settingsdialog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/settingsdialog.cpp.s
+.PHONY : settingsdialog.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -281,6 +329,12 @@ help:
 	@echo ... mainwindow.obj
 	@echo ... mainwindow.i
 	@echo ... mainwindow.s
+	@echo ... serialsettingsdialog.obj
+	@echo ... serialsettingsdialog.i
+	@echo ... serialsettingsdialog.s
+	@echo ... settingsdialog.obj
+	@echo ... settingsdialog.i
+	@echo ... settingsdialog.s
 .PHONY : help
 
 

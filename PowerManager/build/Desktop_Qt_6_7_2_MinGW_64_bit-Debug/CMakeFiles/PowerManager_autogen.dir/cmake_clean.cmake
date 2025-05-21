@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/PowerManager_autogen"
   "PowerManager_autogen/include/ui_mainwindow.h"
+  "PowerManager_autogen/include/ui_serialsettingsdialog.h"
+  "PowerManager_autogen/include/ui_settingsdialog.h"
   "PowerManager_autogen/mocs_compilation.cpp"
 )
 

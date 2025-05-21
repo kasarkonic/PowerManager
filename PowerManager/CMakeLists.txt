@@ -23,6 +23,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(PowerManager
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        settingsdialog.h settingsdialog.cpp settingsdialog.ui
+        serialsettingsdialog.h serialsettingsdialog.cpp serialsettingsdialog.ui
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET PowerManager APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
