@@ -362,6 +362,12 @@ CMakeFiles/PowerManager.dir/main.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qcursor.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qbitmap.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
+ C:\Users\maris.dirveiks\git\PowerManager\PowerManager\settingsdialog.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
+ C:\Users\maris.dirveiks\git\PowerManager\PowerManager\global.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/QColor \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qcolor.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QApplication \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qapplication.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qcoreapplication.h \

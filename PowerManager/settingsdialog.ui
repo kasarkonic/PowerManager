@@ -6,94 +6,42 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>760</width>
-    <height>417</height>
+    <width>750</width>
+    <height>357</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <layout class="QVBoxLayout" name="verticalLayout">
+  <layout class="QVBoxLayout" name="verticalLayout_3">
    <item>
-    <layout class="QHBoxLayout" name="horizontalLayout">
+    <layout class="QVBoxLayout" name="verticalLayout">
      <item>
-      <widget class="QLabel" name="comportSettingsLabel">
+      <widget class="QLabel" name="label_2">
        <property name="text">
-        <string>Com port and Modbuss settings</string>
+        <string>l1</string>
        </property>
       </widget>
      </item>
     </layout>
    </item>
    <item>
-    <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <widget class="Line" name="line">
+     <property name="orientation">
+      <enum>Qt::Orientation::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout_2">
      <item>
-      <layout class="QHBoxLayout" name="horizontalLayout_5">
-       <item>
-        <widget class="QLabel" name="connectionTypeLabel">
-         <property name="text">
-          <string>Connection type</string>
-         </property>
-        </widget>
-       </item>
-      </layout>
-     </item>
-     <item>
-      <layout class="QHBoxLayout" name="horizontalLayout_9">
-       <item>
-        <widget class="QComboBox" name="connectionTypeComBox"/>
-       </item>
-      </layout>
-     </item>
-     <item>
-      <layout class="QHBoxLayout" name="horizontalLayout_8">
-       <item>
-        <widget class="QLabel" name="labelPort">
-         <property name="text">
-          <string>Port</string>
-         </property>
-        </widget>
-       </item>
-      </layout>
-     </item>
-     <item>
-      <layout class="QHBoxLayout" name="horizontalLayout_7">
-       <item>
-        <widget class="QLineEdit" name="portLineEdit"/>
-       </item>
-      </layout>
-     </item>
-     <item>
-      <layout class="QHBoxLayout" name="horizontalLayout_6">
-       <item>
-        <widget class="QLabel" name="serverAddressLabel">
-         <property name="text">
-          <string>Server address</string>
-         </property>
-        </widget>
-       </item>
-      </layout>
-     </item>
-     <item>
-      <widget class="QSpinBox" name="serverAddressSpinBox"/>
-     </item>
-     <item>
-      <layout class="QHBoxLayout" name="horizontalLayout_3"/>
-     </item>
-     <item>
-      <widget class="QPushButton" name="serialparametersPushButton">
+      <widget class="QLabel" name="label">
        <property name="text">
-        <string>Serial parameters</string>
+        <string>l2</string>
        </property>
       </widget>
      </item>
-     <item>
-      <layout class="QHBoxLayout" name="horizontalLayout_4"/>
-     </item>
     </layout>
-   </item>
-   <item>
-    <layout class="QVBoxLayout" name="verticalLayout_2"/>
    </item>
   </layout>
  </widget>

@@ -360,6 +360,24 @@ CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qsizepolicy.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qcursor.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qbitmap.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbus-config.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusexports.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/QSerialPort \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialport.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qproperty.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qpropertyprivate.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/experimental/source_location \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qtserialportexports.h \
+ C:\Users\maris.dirveiks\git\PowerManager\PowerManager\global.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/QColor \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qcolor.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
  C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/include/ui_serialsettingsdialog.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qvariant.h \
@@ -378,7 +396,6 @@ CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qguiapplication_platform.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QComboBox \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qcombobox.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstyleoption.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractspinbox.h \
@@ -388,7 +405,6 @@ CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractslider.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstyle.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabbar.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qrubberband.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qframe.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qabstractitemmodel.h \
@@ -403,7 +419,6 @@ CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLabel \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlabel.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qpicture.h \
- C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qtextdocument.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qurl.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QPushButton \

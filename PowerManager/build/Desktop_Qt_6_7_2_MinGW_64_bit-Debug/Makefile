@@ -210,6 +210,30 @@ PowerManager_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/PowerManager_autogen/mocs_compilation.cpp.s
 .PHONY : PowerManager_autogen/mocs_compilation.cpp.s
 
+global.obj: global.cpp.obj
+.PHONY : global.obj
+
+# target to build an object file
+global.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/global.cpp.obj
+.PHONY : global.cpp.obj
+
+global.i: global.cpp.i
+.PHONY : global.i
+
+# target to preprocess a source file
+global.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/global.cpp.i
+.PHONY : global.cpp.i
+
+global.s: global.cpp.s
+.PHONY : global.s
+
+# target to generate assembly for a file
+global.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/global.cpp.s
+.PHONY : global.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -323,6 +347,9 @@ help:
 	@echo ... PowerManager_autogen/mocs_compilation.obj
 	@echo ... PowerManager_autogen/mocs_compilation.i
 	@echo ... PowerManager_autogen/mocs_compilation.s
+	@echo ... global.obj
+	@echo ... global.i
+	@echo ... global.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

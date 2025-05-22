@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-a4f6b99a0da327c0f52f.json",
+					"jsonFile" : "directory-.-Debug-88718bac10f016237405.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -42,7 +42,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PowerManager::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PowerManager-Debug-31874ed91c5e5c297be7.json",
+					"jsonFile" : "target-PowerManager-Debug-073a3f24044c8153a281.json",
 					"name" : "PowerManager",
 					"projectIndex" : 0
 				},

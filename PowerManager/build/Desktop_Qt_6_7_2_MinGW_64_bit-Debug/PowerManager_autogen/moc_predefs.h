@@ -152,6 +152,7 @@
 #define __cplusplus 201703L
 #define __cpp_ref_qualifiers 200710L
 #define __DEC32_MIN__ 1E-95DF
+#define QT_SERIALBUS_LIB 1
 #define __DEPRECATED 1
 #define __cpp_rvalue_references 200610L
 #define __DBL_MAX_EXP__ 1024
@@ -275,6 +276,7 @@
 #define __INT_LEAST16_MAX__ 0x7fff
 #define __DEC64_MANT_DIG__ 16
 #define __INT64_MAX__ 0x7fffffffffffffffLL
+#define QT_NETWORK_LIB 1
 #define __SEG_GS 1
 #define __FLT32_DENORM_MIN__ 1.40129846432481707092372958328991613e-45F32
 #define __SIG_ATOMIC_WIDTH__ 32
@@ -393,6 +395,7 @@
 #define __PIC__ 1
 #define __UINT_FAST32_TYPE__ unsigned int
 #define _ENABLE_EXTENDED_ALIGNED_STORAGE 1
+#define QT_SERIALPORT_LIB 1
 #define __FLT32X_NORM_MAX__ 1.79769313486231570814527423731704357e+308F32x
 #define __CHAR32_TYPE__ unsigned int
 #define __FLT_MAX__ 3.40282346638528859811704183484516925e+38F

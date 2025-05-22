@@ -362,6 +362,12 @@ CMakeFiles/PowerManager.dir/mainwindow.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qcursor.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qbitmap.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
+ C:\Users\maris.dirveiks\git\PowerManager\PowerManager\settingsdialog.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
+ C:\Users\maris.dirveiks\git\PowerManager\PowerManager\global.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/QColor \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qcolor.h \
  C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/include/ui_mainwindow.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qvariant.h \
@@ -378,11 +384,57 @@ CMakeFiles/PowerManager.dir/mainwindow.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qinputmethod.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qlocale.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qguiapplication_platform.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QComboBox \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qcombobox.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstyleoption.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractspinbox.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qvalidator.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qregularexpression.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qslider.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractslider.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstyle.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabbar.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qrubberband.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qframe.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qabstractitemmodel.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QFrame \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qframe.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QHBoxLayout \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qboxlayout.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlayout.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlayoutitem.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qboxlayout.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qgridlayout.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLabel \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlabel.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qpicture.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qtextdocument.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qurl.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMenuBar \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmenubar.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmenu.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QSpacerItem \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlayoutitem.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QStatusBar \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstatusbar.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QVBoxLayout \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/QModbusTcpClient \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbustcpclient.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusclient.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusdataunit.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusdevice.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbus-config.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusexports.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbuspdu.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusreply.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/QModbusRtuSerialClient \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusrtuserialclient.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/QSerialPortInfo \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportinfo.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qtserialportexports.h

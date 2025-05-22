@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "PowerManager_autogen"
   "CMakeFiles/PowerManager.dir/PowerManager_autogen/mocs_compilation.cpp.obj"
   "CMakeFiles/PowerManager.dir/PowerManager_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/PowerManager.dir/global.cpp.obj"
+  "CMakeFiles/PowerManager.dir/global.cpp.obj.d"
   "CMakeFiles/PowerManager.dir/main.cpp.obj"
   "CMakeFiles/PowerManager.dir/main.cpp.obj.d"
   "CMakeFiles/PowerManager.dir/mainwindow.cpp.obj"
