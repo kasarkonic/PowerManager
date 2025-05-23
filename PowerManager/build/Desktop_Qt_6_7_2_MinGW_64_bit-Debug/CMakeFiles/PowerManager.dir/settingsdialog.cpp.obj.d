@@ -1,8 +1,8 @@
 CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj: \
  C:\Users\maris.dirveiks\git\PowerManager\PowerManager\settingsdialog.cpp \
  C:\Users\maris.dirveiks\git\PowerManager\PowerManager\settingsdialog.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QDialog \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qdialog.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qtguiglobal.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qglobal.h \
@@ -144,6 +144,7 @@ CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qtguiexports.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qwindowdefs.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qobjectdefs.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qnamespace.h \
@@ -360,16 +361,29 @@ CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qsizepolicy.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qcursor.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qbitmap.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
  C:\Users\maris.dirveiks\git\PowerManager\PowerManager\global.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/QColor \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qcolor.h \
- C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/include/ui_settingsdialog.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/Qdebug \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qdebug.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/QSerialPort \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialport.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qproperty.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qpropertyprivate.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/experimental/source_location \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qtserialportexports.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qvariant.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QString \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qstring.h \
+ C:\Users\maris.dirveiks\git\PowerManager\PowerManager\serialsettingsdialog.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbus-config.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusexports.h \
+ C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/include/ui_settingsdialog.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QApplication \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qapplication.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qcoreapplication.h \
@@ -383,19 +397,47 @@ CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qinputmethod.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qlocale.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qguiapplication_platform.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QComboBox \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qcombobox.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstyleoption.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractspinbox.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qvalidator.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qregularexpression.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qslider.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractslider.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstyle.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabbar.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qrubberband.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qframe.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qabstractitemmodel.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QFrame \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qframe.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLabel \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlabel.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qframe.h \
- C:/Qt/6.7.2/mingw_64/include/QtGui/qpicture.h \
- C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
- C:/Qt/6.7.2/mingw_64/include/QtGui/qtextdocument.h \
- C:/Qt/6.7.2/mingw_64/include/QtCore/qurl.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QVBoxLayout \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QHBoxLayout \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qboxlayout.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlayout.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlayoutitem.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qboxlayout.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qgridlayout.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLabel \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlabel.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qpicture.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qtextdocument.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qurl.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLineEdit \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlineedit.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qtextcursor.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qtextformat.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qpen.h \
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qtextoption.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QPushButton \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qpushbutton.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractbutton.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QSpacerItem \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlayoutitem.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QSpinBox \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qspinbox.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QVBoxLayout \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h

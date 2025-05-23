@@ -1,8 +1,8 @@
 CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:\Users\maris.dirveiks\git\PowerManager\PowerManager\serialsettingsdialog.cpp \
  C:\Users\maris.dirveiks\git\PowerManager\PowerManager\serialsettingsdialog.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QDialog \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qdialog.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qtguiglobal.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qglobal.h \
@@ -144,6 +144,7 @@ CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qtguiexports.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qwindowdefs.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qobjectdefs.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qnamespace.h \
@@ -374,13 +375,14 @@ CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:\Users\maris.dirveiks\git\PowerManager\PowerManager\global.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/QColor \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qcolor.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
- C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/include/ui_serialsettingsdialog.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/Qdebug \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qdebug.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qvariant.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QString \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qstring.h \
+ C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/include/ui_serialsettingsdialog.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QApplication \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qapplication.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qcoreapplication.h \
@@ -405,6 +407,7 @@ CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractslider.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstyle.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabbar.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qrubberband.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qframe.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qabstractitemmodel.h \
@@ -426,4 +429,5 @@ CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qabstractbutton.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QSpinBox \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qspinbox.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h

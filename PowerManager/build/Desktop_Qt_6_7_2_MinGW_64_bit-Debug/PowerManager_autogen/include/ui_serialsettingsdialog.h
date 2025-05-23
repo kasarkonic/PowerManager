@@ -48,7 +48,7 @@ public:
     {
         if (SerialSettingsdialog->objectName().isEmpty())
             SerialSettingsdialog->setObjectName("SerialSettingsdialog");
-        SerialSettingsdialog->resize(243, 330);
+        SerialSettingsdialog->resize(258, 367);
         gridLayout_3 = new QGridLayout(SerialSettingsdialog);
         gridLayout_3->setObjectName("gridLayout_3");
         gridLayout = new QGridLayout();
@@ -109,6 +109,8 @@ public:
         gridLayout_4->setObjectName("gridLayout_4");
         responseTimeouSpinBox = new QSpinBox(groupBox_2);
         responseTimeouSpinBox->setObjectName("responseTimeouSpinBox");
+        responseTimeouSpinBox->setMinimum(-1);
+        responseTimeouSpinBox->setMaximum(5000);
 
         gridLayout_4->addWidget(responseTimeouSpinBox, 0, 1, 1, 1);
 

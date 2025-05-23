@@ -27,6 +27,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         settingsdialog.h settingsdialog.cpp settingsdialog.ui
         serialsettingsdialog.h serialsettingsdialog.cpp serialsettingsdialog.ui
         global.h global.cpp
+        modbusmanager.h modbusmanager.cpp
 
     )
 # Define target properties for Android with Qt 6 as:

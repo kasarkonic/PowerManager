@@ -1,33 +1,25 @@
 #ifndef SERIALSETTINGSDIALOG_H
 #define SERIALSETTINGSDIALOG_H
 
-#include <QWidget>
+#include <QDialog>
 #include <QtSerialBus/qtserialbusglobal.h>
 #include <QSerialPort>
 #include "global.h"
-#include <QMainWindow>
 
 namespace Ui {
 class SerialSettingsdialog;
 }
 
-class SerialSettingsdialog : public QWidget
+class SerialSettingsdialog : public QDialog
 {
     Q_OBJECT
 
 public:
-    explicit SerialSettingsdialog(Global& global, QWidget *parent = nullptr);
+    explicit SerialSettingsdialog(Global& global, QDialog *parent = nullptr);
     ~SerialSettingsdialog();
 
-    struct Settings {
-        int parity = QSerialPort::EvenParity;
-        int baud = QSerialPort::Baud19200;
-        int dataBits = QSerialPort::Data8;
-        int stopBits = QSerialPort::OneStop;
-
-        int responseTime = 1000;
-        int numberOfRetries = 3;
-    };
+private slots:
+    void on_applayPushButton_clicked(bool checked);
 
 private:
     Ui::SerialSettingsdialog *ui;

@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/maris.dirveiks/git/PowerManager/PowerManager/global.cpp" "CMakeFiles/PowerManager.dir/global.cpp.obj" "gcc" "CMakeFiles/PowerManager.dir/global.cpp.obj.d"
   "C:/Users/maris.dirveiks/git/PowerManager/PowerManager/main.cpp" "CMakeFiles/PowerManager.dir/main.cpp.obj" "gcc" "CMakeFiles/PowerManager.dir/main.cpp.obj.d"
   "C:/Users/maris.dirveiks/git/PowerManager/PowerManager/mainwindow.cpp" "CMakeFiles/PowerManager.dir/mainwindow.cpp.obj" "gcc" "CMakeFiles/PowerManager.dir/mainwindow.cpp.obj.d"
+  "C:/Users/maris.dirveiks/git/PowerManager/PowerManager/modbusmanager.cpp" "CMakeFiles/PowerManager.dir/modbusmanager.cpp.obj" "gcc" "CMakeFiles/PowerManager.dir/modbusmanager.cpp.obj.d"
   "C:/Users/maris.dirveiks/git/PowerManager/PowerManager/serialsettingsdialog.cpp" "CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj" "gcc" "CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj.d"
   "C:/Users/maris.dirveiks/git/PowerManager/PowerManager/settingsdialog.cpp" "CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj" "gcc" "CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj.d"
   )

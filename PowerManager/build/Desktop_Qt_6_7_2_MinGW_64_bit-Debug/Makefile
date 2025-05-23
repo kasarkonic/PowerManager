@@ -282,6 +282,30 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+modbusmanager.obj: modbusmanager.cpp.obj
+.PHONY : modbusmanager.obj
+
+# target to build an object file
+modbusmanager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/modbusmanager.cpp.obj
+.PHONY : modbusmanager.cpp.obj
+
+modbusmanager.i: modbusmanager.cpp.i
+.PHONY : modbusmanager.i
+
+# target to preprocess a source file
+modbusmanager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/modbusmanager.cpp.i
+.PHONY : modbusmanager.cpp.i
+
+modbusmanager.s: modbusmanager.cpp.s
+.PHONY : modbusmanager.s
+
+# target to generate assembly for a file
+modbusmanager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PowerManager.dir\build.make CMakeFiles/PowerManager.dir/modbusmanager.cpp.s
+.PHONY : modbusmanager.cpp.s
+
 serialsettingsdialog.obj: serialsettingsdialog.cpp.obj
 .PHONY : serialsettingsdialog.obj
 
@@ -356,6 +380,9 @@ help:
 	@echo ... mainwindow.obj
 	@echo ... mainwindow.i
 	@echo ... mainwindow.s
+	@echo ... modbusmanager.obj
+	@echo ... modbusmanager.i
+	@echo ... modbusmanager.s
 	@echo ... serialsettingsdialog.obj
 	@echo ... serialsettingsdialog.i
 	@echo ... serialsettingsdialog.s

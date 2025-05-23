@@ -381,6 +381,12 @@
 			null
 		],
 		[
+			"C:/Users/maris.dirveiks/git/PowerManager/PowerManager/modbusmanager.h",
+			"MU",
+			"EWIEGA46WW/moc_modbusmanager.cpp",
+			null
+		],
+		[
 			"C:/Users/maris.dirveiks/git/PowerManager/PowerManager/serialsettingsdialog.h",
 			"MU",
 			"EWIEGA46WW/moc_serialsettingsdialog.cpp",
@@ -481,6 +487,11 @@
 		],
 		[
 			"C:/Users/maris.dirveiks/git/PowerManager/PowerManager/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/maris.dirveiks/git/PowerManager/PowerManager/modbusmanager.cpp",
 			"MU",
 			null
 		],

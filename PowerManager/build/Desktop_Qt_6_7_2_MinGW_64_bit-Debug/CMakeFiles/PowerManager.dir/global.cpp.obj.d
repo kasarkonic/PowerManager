@@ -286,4 +286,60 @@ CMakeFiles/PowerManager.dir/global.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qbytearraylist.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qalgorithms.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qstringmatcher.h \
- C:/Qt/6.7.2/mingw_64/include/QtGui/qrgba64.h
+ C:/Qt/6.7.2/mingw_64/include/QtGui/qrgba64.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/Qdebug \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qdebug.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qtextstream.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevicebase.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qscopedpointer.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qcontiguouscache.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/climits \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qsharedpointer.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qshareddata.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qsharedpointer_impl.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qmetatype.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qcompare.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qcomparehelpers.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qdatastream.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qfloat16.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qmath.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qiterable.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qmetacontainer.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qcontainerinfo.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qtaggedpointer.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qobjectdefs.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qobjectdefs_impl.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qscopeguard.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_list.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/list.tcc \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/map \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tree.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_map.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_multimap.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/chrono \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ratio \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ctime \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qmap.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qshareddata_impl.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qset.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qhash.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qvarlengtharray.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/QSerialPort \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialport.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qobject.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qobject_impl.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qbindingstorage.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qproperty.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qpropertyprivate.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/experimental/source_location \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qtserialportexports.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qvariant.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qdebug.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/q23utility.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QString \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qstring.h

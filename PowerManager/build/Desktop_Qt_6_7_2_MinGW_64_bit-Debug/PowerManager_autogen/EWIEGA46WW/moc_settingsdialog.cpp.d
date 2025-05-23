@@ -1,5 +1,8 @@
 C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/EWIEGA46WW/moc_settingsdialog.cpp: C:/Users/maris.dirveiks/git/PowerManager/PowerManager/settingsdialog.h \
   C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/moc_predefs.h \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/QString \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/Qdebug \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20memory.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20type_traits.h \
@@ -44,6 +47,7 @@ C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_Min
   C:/Qt/6.7.2/mingw_64/include/QtCore/qglobalstatic.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qhash.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevicebase.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qiterable.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qiterator.h \
@@ -68,6 +72,8 @@ C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_Min
   C:/Qt/6.7.2/mingw_64/include/QtCore/qpair.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qpoint.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/qproperty.h \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/qpropertyprivate.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qrect.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qrefcount.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/qscopedpointer.h \
@@ -143,11 +149,16 @@ C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_Min
   C:/Qt/6.7.2/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.7.2/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.7.2/mingw_64/include/QtGui/qwindowdefs_win.h \
-  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
-  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
-  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbus-config.h \
+  C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusexports.h \
+  C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusglobal.h \
+  C:/Qt/6.7.2/mingw_64/include/QtSerialPort/QSerialPort \
+  C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialport.h \
+  C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportglobal.h \
+  C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qtserialportexports.h \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QDialog \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qdialog.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qsizepolicy.h \
-  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -351,4 +362,5 @@ C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_Min
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/maris.dirveiks/git/PowerManager/PowerManager/global.h
+  C:/Users/maris.dirveiks/git/PowerManager/PowerManager/global.h \
+  C:/Users/maris.dirveiks/git/PowerManager/PowerManager/serialsettingsdialog.h

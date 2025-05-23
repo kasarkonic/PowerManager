@@ -363,14 +363,43 @@ CMakeFiles/PowerManager.dir/mainwindow.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qbitmap.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
  C:\Users\maris.dirveiks\git\PowerManager\PowerManager\settingsdialog.h \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
- C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/QDialog \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qdialog.h \
  C:\Users\maris.dirveiks\git\PowerManager\PowerManager\global.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/QColor \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qcolor.h \
- C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/include/ui_mainwindow.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/Qdebug \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qdebug.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/QSerialPort \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialport.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qproperty.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qpropertyprivate.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/experimental/source_location \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qtserialportexports.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qvariant.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QString \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qstring.h \
+ C:\Users\maris.dirveiks\git\PowerManager\PowerManager\serialsettingsdialog.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusglobal.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbus-config.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusexports.h \
+ C:\Users\maris.dirveiks\git\PowerManager\PowerManager\modbusmanager.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/QModbusDataUnit \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusdataunit.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/QModbusClient \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusclient.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusdataunit.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusdevice.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbuspdu.h \
+ C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusreply.h \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QObject \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/qobject.h \
+ C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/include/ui_mainwindow.h \
+ C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QApplication \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qapplication.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qcoreapplication.h \
@@ -409,7 +438,6 @@ CMakeFiles/PowerManager.dir/mainwindow.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLabel \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlabel.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qpicture.h \
- C:/Qt/6.7.2/mingw_64/include/QtCore/qiodevice.h \
  C:/Qt/6.7.2/mingw_64/include/QtGui/qtextdocument.h \
  C:/Qt/6.7.2/mingw_64/include/QtCore/qurl.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
@@ -422,19 +450,11 @@ CMakeFiles/PowerManager.dir/mainwindow.cpp.obj: \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qstatusbar.h \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QVBoxLayout \
  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
+ C:/Qt/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
  C:/Qt/6.7.2/mingw_64/include/QtSerialBus/QModbusTcpClient \
  C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbustcpclient.h \
  C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusclient.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusdataunit.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusdevice.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusglobal.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbus-config.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qtserialbusexports.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbuspdu.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusreply.h \
  C:/Qt/6.7.2/mingw_64/include/QtSerialBus/QModbusRtuSerialClient \
  C:/Qt/6.7.2/mingw_64/include/QtSerialBus/qmodbusrtuserialclient.h \
  C:/Qt/6.7.2/mingw_64/include/QtSerialPort/QSerialPortInfo \
- C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportinfo.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportglobal.h \
- C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qtserialportexports.h
+ C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportinfo.h

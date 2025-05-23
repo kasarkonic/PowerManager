@@ -1,5 +1,8 @@
 C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/EWIEGA46WW/moc_serialsettingsdialog.cpp: C:/Users/maris.dirveiks/git/PowerManager/PowerManager/serialsettingsdialog.h \
   C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/PowerManager_autogen/moc_predefs.h \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/QString \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/QVariant \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/Qdebug \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20memory.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20type_traits.h \
@@ -153,11 +156,9 @@ C:/Users/maris.dirveiks/git/PowerManager/PowerManager/build/Desktop_Qt_6_7_2_Min
   C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialport.h \
   C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qserialportglobal.h \
   C:/Qt/6.7.2/mingw_64/include/QtSerialPort/qtserialportexports.h \
-  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
-  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QWidget \
-  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/QDialog \
+  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qdialog.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qsizepolicy.h \
-  C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h \

@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/PowerManager.dir/main.cpp.obj.d"
   "CMakeFiles/PowerManager.dir/mainwindow.cpp.obj"
   "CMakeFiles/PowerManager.dir/mainwindow.cpp.obj.d"
+  "CMakeFiles/PowerManager.dir/modbusmanager.cpp.obj"
+  "CMakeFiles/PowerManager.dir/modbusmanager.cpp.obj.d"
   "CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj"
   "CMakeFiles/PowerManager.dir/serialsettingsdialog.cpp.obj.d"
   "CMakeFiles/PowerManager.dir/settingsdialog.cpp.obj"
